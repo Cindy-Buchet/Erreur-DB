@@ -7,7 +7,7 @@ Afficher toutes les erreurs ressorties des logiciels internes de MCP. Pouvoir le
 
 Affichage de toutes les erreurs sous forme de tableau
 
-![](log2.jpg)
+![](log4.jpg)
 
 Vous pouvez voir ci-dessus le filtre, le temps restant avant que la page se rafraichisse
 
