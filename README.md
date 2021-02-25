@@ -2,11 +2,17 @@
 Ce projet a été réalisé pendant mon stage à MCP. Celui-ci a été fais pour MCP, donc le site est privé.
 # Concept
 Afficher toutes les erreurs ressorties des logiciels internes de MCP. Pouvoir les trier via un filtre et les valider quand elles sont traitées.
+
 ![](log1.jpg)
+
 Affichage de toutes les erreurs sous forme de tableau
+
 ![](log2.jpg)
+
 Vous pouvez voir ci-dessus le filtre, le temps restant avant que la page se rafraichisse
+
 ![](log3.jpg)
+
 Bouton pour pouvoir cocher toutes les erreurs et les traités toutes en un coup
 # Langages / librairies utilisés
 * HTML
